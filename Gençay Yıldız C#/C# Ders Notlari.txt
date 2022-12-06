@@ -1,0 +1,95 @@
+Parse metodu sadece string dataları hedef türe dönüştürürken kullanılır.
+
+Chechked bilinçli bir tür dönüşümü esnasında bir veri kaybı olacaksa bizi uyarır.
+
+Unchecked Normal bir kod bloğu normal olarak uncheckdır.
+
+Tür dönüşüşmlerinde dönüştürülecek türün hedef türe uygun olması gerekdi.
+Bir sitisna olarak 0'ın dışındaki türlerin boolean bir ifadeye çevirirken true; 0'a dönüştürürken false olduğunu görürüz.
+
+Cast ör: int _a = (int)a;
+
+Parse ör: int number = Int.Parse("1235");
+
+İki farklı türde sayısal değer üzerinde yapılan aritmeik işlem sonucunda geriye buyuk olan turde sonuc donecektir.
+Kucuk olan tur bilinçsiz tur dönüşümü yaparak gerçekleşir.
+İki byte üstünde yapılan aritmetik işlem sonucunda geriye INT deger doner.
+
+ya da(^) operatörü, şartlardan kesinlikle birtanesinin yerine getirmesini ister...
+
+Ternary ör: 
+int sonuc = sayi < 3 ? sayı *5 : 
+		  (sayı > 3 && sayı sayı < 9) ? sayı * 3 : 
+		  (sayı >= 9 && sayı % 2) == 0 ? sayı * 10 : 
+		  sayı % 2 == 1 ? sayı : -;
+
+Boxinge tabni tutulmuş değerin türünü ogrenmek için kullanırız. Geriye bool deger doner.
+
+C# proglamlama dilinde deger tipler null deger alamaz.
+
+As operatoru: Cast operatorune alternatif olarak çıkmıştır. Unboxıng işlemlerinde as operatoru degeri dışarı çıkartır ve ataycagı degere uygun ise atar;
+       	  ama değilse null deger doner. Bu yuzden deger tipler ile çalışamaz, null alabilecek degerlerle çalışır.
+
+Bir değer turlu degiskenin null deger alabilmesi için ? operatorunu kullanması lazım. int? a = null;
+	ardından butun null ile çalışan operatorler uzerinde çalışabiliriz.
+
+Null Coalescing: ??= gönderilen değer null ise verilen değeri ata null değilse değerini koru ör: int? a = null;  a ??= 1; a'ya 1 değerini atayacak.
+
+Switch case de case degerleri bir değişkenden alınamaz. Sabit olmalı.
+
+Type Pattern: object içerisindeki değerleri kontol etme aşamasında bize çok kolaylık sağlıyor.
+		    ör: if(x is string a) a da x string ise atama yaptık. if içerisinden kullandığımız değişken ismini başka if'de
+		    kullanamayız.
+
+Constant Pattern: bizim == ile kontrol sağladığımız olayları is operatoru ile sağlayabiliyoruz. 
+			   int a=0;
+			   if(a is 5), burada is opertorunun diğer olayı if(a is int) a int bir değer mi bunu da unutmayalım.
+			   ister değer türlü istersen de referans türlü kontrolleri sağlayabilirsin.
+			   bir değer türü kontrolü yapılıyorsa bu Constatnt Operatorudur.
+
+Var Pattern: değer atama yaparken Type pattern da type yerine var yazıyoruz. 
+		   ör: if(x is var a) var ın türü runtime da belirlenecek.
+		   var keyword u ile var pattern arasındaki fark keyword derleme esnasında türüm belirlenirken, var pattern runtime da 
+		   belirleniyor.
+
+Relational Pattern: Switch ile if arasındaki farkı ortadan kaldırıyor.
+
+Try catch: Maliyetli bir yapıdır. Catch blogunda Exception hataların annesidir. Finally blogu try cath blokları çalışsada çalışmasada
+		 çalışır. When ile bir şart daha koyabiliriz.
+
+For: ilk olarak deger atandıktan sonra şarta bakar doğruysa scopelar arsındaki işlemi yapar ardından aritmetik işlemi yapar sonra 
+	şartı kontrol eder dogruysa devam eder aynı şekilde.
+
+Keyword: Proglamlama dilinin en atomik parçalarıdır.
+		Derleyici için ön tanımlı olan, nerede hangi amaca hizmet ettiği bellidir sınırlandırılmıştır.
+		operatorler belirli bir operasyonu eylemi gerçekleşştiren yapılardır.
+		Keyword operatorleri kaplar. Her operasyon keyworddur.
+
+Manevratik Komutlar:  yapamayacağımız şeyleri yapmaya yarayan komutlar değildir. Kodun yönlendirmelerini daha efektif 
+					yapmaktadır.
+		break: Döngü ve switch case de kullanilabilir keyworddur. Kullanıldığı yapıyı sonlandırır.
+				foreach de de kullanılır. foreach bir iterasyondur.
+
+		continue: sadece döngülerde çalışır. Döngüde bir sonraki periyoda direk geçiş yaptırır. Döngünün içersinde nerdeyse 
+				oradan bırakır ve bir sonraki periyoda geçer(i=0 -> i=1)
+				Döngülerin içinde herhangi bir keyword içerisinde de kullanılır.
+		return: metot içerisinde her yerde kullanılabilir erişilebilridir. 
+				iki işlevi görmektedir. 1-) metodtan çıkış yapar. Metodu sonlandırır.
+								     2-) metotlarda geriye değer döndürür.
+		goto: kodun senkranizasyonunu bozup akisi ters istikamete almaya yarayan kreyworddur.
+			 davranıssal olarak dongulere benzer.Metot içerisinde her yerde kullanılır.
+
+Ekstra Bilgi: Bazen (ki ileride asenkron proglamlamda) içi boş sonsuz döngülere ihtiyacımız olabilir. Bu durumlarda normal döngü
+			gövdelerini kullanabildiğimiz gibi scopesuz da kullanabiliriz. ; opertoru ile temiz kod yazımı.
+
+
+
+
+
+
+
+
+
+
+
+

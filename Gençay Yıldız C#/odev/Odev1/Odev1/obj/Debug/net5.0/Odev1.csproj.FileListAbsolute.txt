@@ -1,0 +1,16 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\bin\Debug\net5.0\Odev1.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\bin\Debug\net5.0\Odev1.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\bin\Debug\net5.0\Odev1.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\bin\Debug\net5.0\Odev1.runtimeconfig.dev.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\bin\Debug\net5.0\Odev1.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\bin\Debug\net5.0\Odev1.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\obj\Debug\net5.0\Odev1.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\obj\Debug\net5.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\obj\Debug\net5.0\Odev1.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\obj\Debug\net5.0\Odev1.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\obj\Debug\net5.0\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\obj\Debug\net5.0\Odev1.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\obj\Debug\net5.0\Odev1.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\obj\Debug\net5.0\Odev1.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\obj\Debug\net5.0\ref\Odev1.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Odev1\Odev1\bin\Debug\net5.0\ref\Odev1.dll

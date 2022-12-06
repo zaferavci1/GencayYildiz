@@ -1,0 +1,12 @@
+Nesne bir canlidir. Birbiriyle ilişkili yapılari içeren bir organizmadır. Komplekstirler.
+
+Shallow Copy: Referans turlu degiskenlerde default davranistir.
+Deep Copy: Deger turlu degiskenlerin defult davranısıdır.
+
+Init: Readonly degiskenler icin ortaya cikmistir.
+
+Record: Recordlar nesneden daha cok veriyileri on plana cikarirlar. Bu yuzden hafif nesne olarak adlandırılırlar.
+	   recordlarda bir class'tır. 
+
+With Expression:
+ 
