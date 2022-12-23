@@ -1,0 +1,16 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\bin\Debug\net5.0\foreach_iterasyonu.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\bin\Debug\net5.0\foreach_iterasyonu.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\bin\Debug\net5.0\foreach_iterasyonu.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\bin\Debug\net5.0\foreach_iterasyonu.runtimeconfig.dev.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\bin\Debug\net5.0\foreach_iterasyonu.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\bin\Debug\net5.0\foreach_iterasyonu.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\obj\Debug\net5.0\foreach_iterasyonu.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\obj\Debug\net5.0\foreach_iterasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\obj\Debug\net5.0\foreach_iterasyonu.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\obj\Debug\net5.0\foreach_iterasyonu.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\obj\Debug\net5.0\foreach_iterasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\obj\Debug\net5.0\foreach_iterasyonu.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\obj\Debug\net5.0\refint\foreach_iterasyonu.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\obj\Debug\net5.0\foreach_iterasyonu.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\obj\Debug\net5.0\foreach_iterasyonu.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\foreach_iterasyonu\foreach_iterasyonu\obj\Debug\net5.0\ref\foreach_iterasyonu.dll

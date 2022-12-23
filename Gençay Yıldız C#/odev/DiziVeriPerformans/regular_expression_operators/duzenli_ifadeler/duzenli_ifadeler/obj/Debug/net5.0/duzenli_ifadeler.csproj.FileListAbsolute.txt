@@ -1,0 +1,16 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\bin\Debug\net5.0\duzenli_ifadeler.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\bin\Debug\net5.0\duzenli_ifadeler.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\bin\Debug\net5.0\duzenli_ifadeler.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\bin\Debug\net5.0\duzenli_ifadeler.runtimeconfig.dev.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\bin\Debug\net5.0\duzenli_ifadeler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\bin\Debug\net5.0\duzenli_ifadeler.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\obj\Debug\net5.0\duzenli_ifadeler.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\obj\Debug\net5.0\duzenli_ifadeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\obj\Debug\net5.0\duzenli_ifadeler.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\obj\Debug\net5.0\duzenli_ifadeler.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\obj\Debug\net5.0\duzenli_ifadeler.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\obj\Debug\net5.0\duzenli_ifadeler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\obj\Debug\net5.0\refint\duzenli_ifadeler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\obj\Debug\net5.0\duzenli_ifadeler.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\obj\Debug\net5.0\duzenli_ifadeler.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\DiziVeriPerformans\regular_expression_operators\duzenli_ifadeler\duzenli_ifadeler\obj\Debug\net5.0\ref\duzenli_ifadeler.dll

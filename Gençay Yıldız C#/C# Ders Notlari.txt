@@ -82,6 +82,8 @@ Manevratik Komutlar:  yapamayacağımız şeyleri yapmaya yarayan komutlar deği
 Ekstra Bilgi: Bazen (ki ileride asenkron proglamlamda) içi boş sonsuz döngülere ihtiyacımız olabilir. Bu durumlarda normal döngü
 			gövdelerini kullanabildiğimiz gibi scopesuz da kullanabiliriz. ; opertoru ile temiz kod yazımı.
 
+DİZİLER : Diziler içeriside aynı türden birden fazla veri tutabilen yapılardır.
+		
 
 
 

@@ -14,3 +14,19 @@ C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Keyword\Keyw
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\Keyword.pdb
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\Keyword.genruntimeconfig.cache
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\ref\Keyword.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\Keyword.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\Keyword.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\Keyword.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\Keyword.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\Keyword.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\refint\Keyword.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\Keyword.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\bin\Debug\net5.0\Keyword.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\bin\Debug\net5.0\Keyword.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\bin\Debug\net5.0\Keyword.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\bin\Debug\net5.0\Keyword.runtimeconfig.dev.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\bin\Debug\net5.0\Keyword.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\bin\Debug\net5.0\Keyword.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\Keyword.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Gençay Yıldız\GencayYildiz\Gençay Yıldız C#\odev\Keyword\Keyword\obj\Debug\net5.0\ref\Keyword.dll

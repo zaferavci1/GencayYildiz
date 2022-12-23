@@ -1,0 +1,16 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\bin\Debug\net5.0\hazir_kutuphaneler.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\bin\Debug\net5.0\hazir_kutuphaneler.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\bin\Debug\net5.0\hazir_kutuphaneler.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\bin\Debug\net5.0\hazir_kutuphaneler.runtimeconfig.dev.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\bin\Debug\net5.0\hazir_kutuphaneler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\bin\Debug\net5.0\hazir_kutuphaneler.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\obj\Debug\net5.0\hazir_kutuphaneler.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\obj\Debug\net5.0\hazir_kutuphaneler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\obj\Debug\net5.0\hazir_kutuphaneler.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\obj\Debug\net5.0\hazir_kutuphaneler.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\obj\Debug\net5.0\hazir_kutuphaneler.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\obj\Debug\net5.0\hazir_kutuphaneler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\obj\Debug\net5.0\refint\hazir_kutuphaneler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\obj\Debug\net5.0\hazir_kutuphaneler.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\obj\Debug\net5.0\hazir_kutuphaneler.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\foreach\hazir_kutuphaneler\hazir_kutuphaneler\obj\Debug\net5.0\ref\hazir_kutuphaneler.dll

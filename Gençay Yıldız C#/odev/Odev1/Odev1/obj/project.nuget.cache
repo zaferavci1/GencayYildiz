@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JeHMgfB9DJYVLJ/3e2vqyEA51m4J2VaI7rbbwysOZfP1kHOhrsxJSa3aIOftIuS1aOaVHOEnZ1LV0OHOlqCYWg==",
+  "dgSpecHash": "jnJUDFLoKdYSYB974nPylxH6wyy/PmYiO61lDkO8dwMRnrQGJoVtPkNb7rNYwx7LO20ST6bu4ADOJTl2nFBymw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Gençay Yıldız C#\\odev\\Odev1\\Odev1\\Odev1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ZAFER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\GencayYildiz\\Gençay Yıldız C#\\odev\\Odev1\\Odev1\\Odev1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

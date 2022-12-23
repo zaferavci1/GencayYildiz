@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "hazir_kutuphaneler/1.0.0": {
+        "runtime": {
+          "hazir_kutuphaneler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hazir_kutuphaneler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

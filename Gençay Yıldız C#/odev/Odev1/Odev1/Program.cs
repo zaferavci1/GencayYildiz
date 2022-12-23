@@ -120,9 +120,6 @@ namespace Odev1
             //    }
             //}
             #endregion
-            #region MyRegion
-
-            #endregion
             #region cast
             //int  x = 1;
             //short y = (short)x;

@@ -1,0 +1,16 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\bin\Debug\net5.0\StringFonksiyonlar.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\bin\Debug\net5.0\StringFonksiyonlar.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\bin\Debug\net5.0\StringFonksiyonlar.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\bin\Debug\net5.0\StringFonksiyonlar.runtimeconfig.dev.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\bin\Debug\net5.0\StringFonksiyonlar.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\bin\Debug\net5.0\StringFonksiyonlar.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\obj\Debug\net5.0\StringFonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\obj\Debug\net5.0\StringFonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\obj\Debug\net5.0\StringFonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\obj\Debug\net5.0\StringFonksiyonlar.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\obj\Debug\net5.0\StringFonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\obj\Debug\net5.0\StringFonksiyonlar.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\obj\Debug\net5.0\refint\StringFonksiyonlar.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\obj\Debug\net5.0\StringFonksiyonlar.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\obj\Debug\net5.0\StringFonksiyonlar.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\string\StringFonksiyonlar\StringFonksiyonlar\obj\Debug\net5.0\ref\StringFonksiyonlar.dll
