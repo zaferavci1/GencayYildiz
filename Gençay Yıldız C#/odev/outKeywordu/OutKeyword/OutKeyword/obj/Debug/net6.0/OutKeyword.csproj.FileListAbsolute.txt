@@ -1,0 +1,15 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\bin\Debug\net6.0\OutKeyword.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\bin\Debug\net6.0\OutKeyword.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\bin\Debug\net6.0\OutKeyword.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\bin\Debug\net6.0\OutKeyword.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\bin\Debug\net6.0\OutKeyword.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\obj\Debug\net6.0\OutKeyword.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\obj\Debug\net6.0\OutKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\obj\Debug\net6.0\OutKeyword.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\obj\Debug\net6.0\OutKeyword.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\obj\Debug\net6.0\OutKeyword.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\obj\Debug\net6.0\OutKeyword.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\obj\Debug\net6.0\refint\OutKeyword.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\obj\Debug\net6.0\OutKeyword.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\obj\Debug\net6.0\OutKeyword.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\outKeywordu\OutKeyword\OutKeyword\obj\Debug\net6.0\ref\OutKeyword.dll

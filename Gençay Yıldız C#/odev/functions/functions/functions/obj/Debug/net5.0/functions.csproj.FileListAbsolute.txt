@@ -1,0 +1,16 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\bin\Debug\net5.0\functions.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\bin\Debug\net5.0\functions.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\bin\Debug\net5.0\functions.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\bin\Debug\net5.0\functions.runtimeconfig.dev.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\bin\Debug\net5.0\functions.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\bin\Debug\net5.0\functions.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\obj\Debug\net5.0\functions.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\obj\Debug\net5.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\obj\Debug\net5.0\functions.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\obj\Debug\net5.0\functions.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\obj\Debug\net5.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\obj\Debug\net5.0\functions.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\obj\Debug\net5.0\refint\functions.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\obj\Debug\net5.0\functions.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\obj\Debug\net5.0\functions.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\functions\functions\functions\obj\Debug\net5.0\ref\functions.dll

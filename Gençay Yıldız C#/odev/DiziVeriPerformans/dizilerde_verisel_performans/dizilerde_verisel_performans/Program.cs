@@ -32,7 +32,9 @@ namespace dizilerde_verisel_performans
             //segment1[3] *= 10;
             //segment2[3] *= 10;
             //Console.WriteLine(segment2.Array[3]);
-
+            string a = "asdasff";
+            ArraySegment<string> stringSegment= new ArraySegment<string>(a);
+            
             #endregion
             #region StringSegment Nedir
             //Esasında metinsel değerlerdeki birçok analitik operasyonlardan bizleri kurtarmakta ve Substring vs. gibi fonksiyonlar yerine 

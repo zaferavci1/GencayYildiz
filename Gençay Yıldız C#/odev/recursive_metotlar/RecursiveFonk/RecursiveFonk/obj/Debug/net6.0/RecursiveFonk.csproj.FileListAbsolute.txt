@@ -1,0 +1,15 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\bin\Debug\net6.0\RecursiveFonk.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\bin\Debug\net6.0\RecursiveFonk.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\bin\Debug\net6.0\RecursiveFonk.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\bin\Debug\net6.0\RecursiveFonk.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\bin\Debug\net6.0\RecursiveFonk.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\obj\Debug\net6.0\RecursiveFonk.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\obj\Debug\net6.0\RecursiveFonk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\obj\Debug\net6.0\RecursiveFonk.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\obj\Debug\net6.0\RecursiveFonk.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\obj\Debug\net6.0\RecursiveFonk.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\obj\Debug\net6.0\RecursiveFonk.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\obj\Debug\net6.0\refint\RecursiveFonk.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\obj\Debug\net6.0\RecursiveFonk.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\obj\Debug\net6.0\RecursiveFonk.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\recursive_metotlar\RecursiveFonk\RecursiveFonk\obj\Debug\net6.0\ref\RecursiveFonk.dll
