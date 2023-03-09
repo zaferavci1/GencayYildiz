@@ -1,0 +1,15 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\bin\Debug\net6.0\Constructor.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\bin\Debug\net6.0\Constructor.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\bin\Debug\net6.0\Constructor.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\bin\Debug\net6.0\Constructor.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\bin\Debug\net6.0\Constructor.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\obj\Debug\net6.0\Constructor.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\obj\Debug\net6.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\obj\Debug\net6.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\obj\Debug\net6.0\Constructor.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\obj\Debug\net6.0\refint\Constructor.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\obj\Debug\net6.0\Constructor.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\obj\Debug\net6.0\Constructor.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Constructor\obj\Debug\net6.0\ref\Constructor.dll

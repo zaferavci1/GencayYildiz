@@ -1,0 +1,15 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\bin\Debug\net6.0\YasHesaplama.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\bin\Debug\net6.0\YasHesaplama.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\bin\Debug\net6.0\YasHesaplama.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\bin\Debug\net6.0\YasHesaplama.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\bin\Debug\net6.0\YasHesaplama.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\obj\Debug\net6.0\YasHesaplama.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\obj\Debug\net6.0\YasHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\obj\Debug\net6.0\YasHesaplama.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\obj\Debug\net6.0\YasHesaplama.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\obj\Debug\net6.0\YasHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\obj\Debug\net6.0\YasHesaplama.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\obj\Debug\net6.0\refint\YasHesaplama.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\obj\Debug\net6.0\YasHesaplama.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\obj\Debug\net6.0\YasHesaplama.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Gençay Yıldız C#\odev\YasHesaplamaDateTimeİle\YasHesaplama\YasHesaplama\obj\Debug\net6.0\ref\YasHesaplama.dll

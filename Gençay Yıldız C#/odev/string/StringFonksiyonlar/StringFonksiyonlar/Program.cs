@@ -134,6 +134,7 @@ namespace StringFonksiyonlar
             //}
             //Console.WriteLine(adet);
             #endregion
+           
 
         }
     }

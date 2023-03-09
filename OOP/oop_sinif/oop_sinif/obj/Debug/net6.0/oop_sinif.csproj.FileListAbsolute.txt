@@ -1,0 +1,15 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\bin\Debug\net6.0\oop_sinif.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\bin\Debug\net6.0\oop_sinif.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\bin\Debug\net6.0\oop_sinif.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\bin\Debug\net6.0\oop_sinif.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\bin\Debug\net6.0\oop_sinif.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\obj\Debug\net6.0\oop_sinif.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\obj\Debug\net6.0\oop_sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\obj\Debug\net6.0\oop_sinif.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\obj\Debug\net6.0\oop_sinif.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\obj\Debug\net6.0\oop_sinif.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\obj\Debug\net6.0\oop_sinif.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\obj\Debug\net6.0\refint\oop_sinif.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\obj\Debug\net6.0\oop_sinif.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\obj\Debug\net6.0\oop_sinif.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\oop_sinif\obj\Debug\net6.0\ref\oop_sinif.dll

@@ -1,0 +1,15 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\bin\Debug\net6.0\StaticConstructor.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\bin\Debug\net6.0\StaticConstructor.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\bin\Debug\net6.0\StaticConstructor.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\bin\Debug\net6.0\StaticConstructor.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\bin\Debug\net6.0\StaticConstructor.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\obj\Debug\net6.0\StaticConstructor.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\obj\Debug\net6.0\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\obj\Debug\net6.0\StaticConstructor.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\obj\Debug\net6.0\StaticConstructor.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\obj\Debug\net6.0\StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\obj\Debug\net6.0\StaticConstructor.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\obj\Debug\net6.0\refint\StaticConstructor.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\obj\Debug\net6.0\StaticConstructor.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\obj\Debug\net6.0\StaticConstructor.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\StaticConstructor\obj\Debug\net6.0\ref\StaticConstructor.dll

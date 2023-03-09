@@ -1,0 +1,15 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\bin\Debug\net6.0\Destructor.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\bin\Debug\net6.0\Destructor.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\bin\Debug\net6.0\Destructor.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\bin\Debug\net6.0\Destructor.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\bin\Debug\net6.0\Destructor.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\obj\Debug\net6.0\Destructor.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\obj\Debug\net6.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\obj\Debug\net6.0\Destructor.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\obj\Debug\net6.0\Destructor.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\obj\Debug\net6.0\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\obj\Debug\net6.0\Destructor.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\obj\Debug\net6.0\refint\Destructor.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\obj\Debug\net6.0\Destructor.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\obj\Debug\net6.0\Destructor.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\oop_sinif\Destructor\obj\Debug\net6.0\ref\Destructor.dll
