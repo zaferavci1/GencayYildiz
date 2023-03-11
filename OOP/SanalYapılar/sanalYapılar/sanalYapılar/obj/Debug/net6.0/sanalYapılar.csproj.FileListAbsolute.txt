@@ -1,0 +1,15 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\bin\Debug\net6.0\sanalYapılar.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\bin\Debug\net6.0\sanalYapılar.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\bin\Debug\net6.0\sanalYapılar.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\bin\Debug\net6.0\sanalYapılar.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\bin\Debug\net6.0\sanalYapılar.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\obj\Debug\net6.0\sanalYapılar.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\obj\Debug\net6.0\sanalYapılar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\obj\Debug\net6.0\sanalYapılar.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\obj\Debug\net6.0\sanalYapılar.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\obj\Debug\net6.0\sanalYapılar.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\obj\Debug\net6.0\sanalYapılar.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\obj\Debug\net6.0\refint\sanalYapılar.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\obj\Debug\net6.0\sanalYapılar.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\obj\Debug\net6.0\sanalYapılar.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SanalYapılar\sanalYapılar\sanalYapılar\obj\Debug\net6.0\ref\sanalYapılar.dll
