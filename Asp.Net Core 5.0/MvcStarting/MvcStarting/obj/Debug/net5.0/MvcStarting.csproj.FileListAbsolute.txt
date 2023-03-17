@@ -36,3 +36,4 @@ C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Asp.Net Core 5.0\MvcStar
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Asp.Net Core 5.0\MvcStarting\MvcStarting\obj\Debug\net5.0\MvcStarting.genruntimeconfig.cache
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Asp.Net Core 5.0\MvcStarting\MvcStarting\obj\Debug\net5.0\ref\MvcStarting.dll
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Asp.Net Core 5.0\MvcStarting\MvcStarting\obj\Debug\net5.0\MvcStarting.csproj.CopyComplete
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\Asp.Net Core 5.0\MvcStarting\MvcStarting\obj\Debug\net5.0\Razor\Views\ActionTypes\Getproducts.cshtml.g.cs
