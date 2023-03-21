@@ -1,0 +1,10 @@
+﻿@model View.Models.Product
+
+<ul>
+    @{
+        foreach (var item in (List<View.Models.Product>)TempData["data"])
+        {
+            <li>@item.Name</li>
+        }
+    }
+</ul>

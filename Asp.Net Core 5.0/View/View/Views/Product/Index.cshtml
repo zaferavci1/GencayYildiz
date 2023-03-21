@@ -1,0 +1,34 @@
+﻿@*<h3>Bu viewe gelecek modelin hangi türde olacağını belirtmemiz gerekiyor. GEnelde en üstte tanımlanır</h3>
+@model List<View.Models.Product>
+
+<h3>Yukarıda belirttiğimiz kaynak modelı burada Model'a aktarılıyor'</h3>
+
+<ul>
+    @{
+        foreach (var item in Model)
+        {
+            <li>@item.Name</li>
+        }
+    }
+</ul>*@
+
+<h3>ViewBag ile geldi</h3>
+
+<ul>
+    @{
+        foreach (var item in ViewBag.products as List<View.Models.Product>)
+        {
+            <li>@item.Name</li>
+        }
+    }
+</ul>
+
+<h3>ViewData ile geldi</h3>
+<ul>
+    @{
+        foreach (var item in (List<View.Models.Product>)ViewData["products"] )
+        {
+            <li>@item.Name</li>
+        }
+    }
+</ul>

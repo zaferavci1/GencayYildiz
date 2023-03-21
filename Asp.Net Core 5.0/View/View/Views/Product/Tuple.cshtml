@@ -1,0 +1,11 @@
+﻿@*@model View.Models.ViewModel.ProductUser
+
+<h3>
+    @Model.Product.Name
+    @Model.User.Name
+</h3>*@
+
+@model (View.Models.Product p, View.Models.User u)
+
+<h3>@Model.u.Name</h3>
+<h3>@Model.p.Name</h3>
