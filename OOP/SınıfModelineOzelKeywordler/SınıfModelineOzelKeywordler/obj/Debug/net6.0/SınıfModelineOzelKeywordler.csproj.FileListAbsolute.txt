@@ -1,0 +1,15 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\bin\Debug\net6.0\SınıfModelineOzelKeywordler.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\bin\Debug\net6.0\SınıfModelineOzelKeywordler.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\bin\Debug\net6.0\SınıfModelineOzelKeywordler.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\bin\Debug\net6.0\SınıfModelineOzelKeywordler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\bin\Debug\net6.0\SınıfModelineOzelKeywordler.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\obj\Debug\net6.0\SınıfModelineOzelKeywordler.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\obj\Debug\net6.0\SınıfModelineOzelKeywordler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\obj\Debug\net6.0\SınıfModelineOzelKeywordler.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\obj\Debug\net6.0\SınıfModelineOzelKeywordler.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\obj\Debug\net6.0\SınıfModelineOzelKeywordler.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\obj\Debug\net6.0\SınıfModelineOzelKeywordler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\obj\Debug\net6.0\refint\SınıfModelineOzelKeywordler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\obj\Debug\net6.0\SınıfModelineOzelKeywordler.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\obj\Debug\net6.0\SınıfModelineOzelKeywordler.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\SınıfModelineOzelKeywordler\SınıfModelineOzelKeywordler\obj\Debug\net6.0\ref\SınıfModelineOzelKeywordler.dll

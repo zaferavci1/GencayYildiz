@@ -1,0 +1,15 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\bin\Debug\net6.0\Partial.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\bin\Debug\net6.0\Partial.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\bin\Debug\net6.0\Partial.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\bin\Debug\net6.0\Partial.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\bin\Debug\net6.0\Partial.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\obj\Debug\net6.0\Partial.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\obj\Debug\net6.0\Partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\obj\Debug\net6.0\Partial.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\obj\Debug\net6.0\Partial.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\obj\Debug\net6.0\Partial.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\obj\Debug\net6.0\Partial.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\obj\Debug\net6.0\refint\Partial.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\obj\Debug\net6.0\Partial.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\obj\Debug\net6.0\Partial.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\GencayYildiz\OOP\Partial\Partial\obj\Debug\net6.0\ref\Partial.dll
