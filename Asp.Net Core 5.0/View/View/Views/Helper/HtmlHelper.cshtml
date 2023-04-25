@@ -1,0 +1,13 @@
+﻿@using View.Extensions
+@model View.Models.User
+
+<h1>Html Helpers view'ı'</h1>
+<h3>Bize bu viewda kullanmak veya render edeceğimiz diğer view'a model göndermek istiyorsak bunu noraml bir şekilde yapabilrizi. Ama biz render edeceğimiz diğer view'a farklı türden bir model göndermek istediğimizde Html.Partial metoduna o modelı vermemiz gerekecek </h3>
+
+@*<h2>Html.Partial metodu ile başka bir dizindeki viewı render edebileceğiz</h2>
+@Html.Partial("~/Views/Product/Partial/ListProduct.cshtml",new View.Models.Product(){Name="deneme"})*@
+
+<h1>Custom HmlHelper fonksiyonu oluşturduk</h1>
+@Html.CustomTextBox("txtCustomAdı",null,"adınız")
+
+

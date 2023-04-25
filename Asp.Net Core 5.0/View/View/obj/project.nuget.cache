@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7qOReDxuUfJJFcAyAmYOhIFvD2CyvOHkge9IGCBv7OuxdGbST7MrTuauDtXaiu3OAKYEb6lLw75jJdbX6lWmOQ==",
+  "dgSpecHash": "8JXQKNzqvEJxNmWspfSikW4KlStI7/IC0ppb0rAbFchx4Rc7ODbfsluQlFPqtGg2FW4Fzll9ajQOUHtlOUHXqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\GencayYildiz\\Asp.Net Core 5.0\\View\\View\\View.csproj",
+  "projectFilePath": "D:\\DERSLER\\GencayYildiz\\Asp.Net Core 5.0\\View\\View\\View.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZAFER\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\ZAFER\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

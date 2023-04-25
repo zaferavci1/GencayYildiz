@@ -1,0 +1,37 @@
+﻿@*Razor Nedir? : Asp.net Core MVC mimarisinde .cshtml uzantılı dosyalarda bize HTML kodları ile birlikte C# kodlarını da yazmamızı sağlayan
+                bir teknolojidir.*@
+@*@ Operatoru : @ Operatoru razor operatorudür.*@
+@*Razer ile değişken oluşturma : *@
+
+@{
+    string metin = "asasdasd";
+}
+
+@*Razer içerisinde HTML kullanımı*@
+
+@{
+    <div></div>
+}
+@*Razer içerisinde <text> kullanımı *@
+
+@{
+    if (true)
+    {
+        <text> Evet</text>
+
+    }
+    else
+    {
+        <text> Hayır</text>
+    }
+}
+
+@*Razor ile tek satırlık işlemler*@
+<h3>@(5 + 4)</h3>
+<h3>@metin</h3>
+
+@*Ternary Operatoru*@
+<h3>@(33 % 5 == 3 ? "evet " : "hayır")</h3>
+
+@*Koşul Yapıları*@
+@* Yorum satırı*@

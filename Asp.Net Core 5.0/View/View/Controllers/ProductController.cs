@@ -97,29 +97,32 @@ namespace View.Controllers
             //};
             #endregion
             #region Tuple Kullanımı
-            User user = new User()
-            {
-                Id = 1,
-                Name = "Zafer",
-                LastName = "Avcı"
-            };
+            //User user = new User()
+            //{
+            //    Id = 1,
+            //    Name = "Zafer",
+            //    LastName = "Avcı"
+            //};
 
-            Product product = new Product()
-            {
-                Id = 1,
-                Name = "Silgi",
-                Price = 10
-            };
+            //Product product = new Product()
+            //{
+            //    Id = 1,
+            //    Name = "Silgi",
+            //    Price = 10
+            //};
 
-            ProductUser productUser = new ProductUser()
-            {
-                Product = product,
-                User = user
-            };
-            var tuple = (product, user);
+            //ProductUser productUser = new ProductUser()
+            //{
+            //    Product = product,
+            //    User = user
+            //};
+            //var tuple = (product, user);
             #endregion
-            return View(tuple);
+            return View();
         }
-
+        public IActionResult Razor()
+        {
+            return View();
+        }
     }
 }
