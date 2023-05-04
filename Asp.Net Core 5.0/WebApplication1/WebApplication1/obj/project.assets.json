@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\GencayYildiz\\Asp.Net Core 5.0\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\DERSLER\\GencayYildiz\\Asp.Net Core 5.0\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\GencayYildiz\\Asp.Net Core 5.0\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\DERSLER\\GencayYildiz\\Asp.Net Core 5.0\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\ZAFER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\GencayYildiz\\Asp.Net Core 5.0\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\DERSLER\\GencayYildiz\\Asp.Net Core 5.0\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

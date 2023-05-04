@@ -1,0 +1,19 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@model ModelBinding.Models.Product //asp-for üzeründen binding işlemini otomatik olarak name yazadan sağlayabiliriz.
+
+
+<form asp-action="CreateProduct" method="post" asp-controller="Product">
+    <input type="text" name="Name" asp-for="Name" placeholder="Product Name" />
+   @* @Html.TextBoxFor(x=>x.Name,"",new{
+    placeholder= "Name"
+    })*@
+    <br />
+    <input type="number" name="Quantity" asp-for="Quantity" placeholder="Quantity" />
+    @*@Html.TextBoxFor(x=>x.Quantity,"",new{
+    placeholder= "Quantity",
+    type="number"
+    })*@
+    <br />
+    <button>Ürün ekle</button>
+</form>
