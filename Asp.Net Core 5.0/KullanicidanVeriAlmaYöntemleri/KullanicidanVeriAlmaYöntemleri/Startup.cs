@@ -48,9 +48,11 @@ namespace KullanicidanVeriAlmaYöntemleri
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                //endpoints.MapControllerRoute(
+                //    name: "default",
+                //    pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapDefaultControllerRoute();
+                endpoints.MapControllerRoute("customRoute", "{controller=home}/{action=Index}/{a}/{b}/{id}");
             });
         }
     }

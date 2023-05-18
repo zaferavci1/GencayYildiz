@@ -1,0 +1,10 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<button id="btnGönder">  Gönder</button>
+
+<script>
+    $("#btnGönder").click(() => {
+        $.post("https://localhost:44395/ajaxtabanli/verial", { a: "a data ", b: "b data" })
+    })
+</script>
