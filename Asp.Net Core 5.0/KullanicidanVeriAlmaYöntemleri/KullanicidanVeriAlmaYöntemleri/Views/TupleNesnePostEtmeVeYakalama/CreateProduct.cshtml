@@ -1,0 +1,9 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.TagHelpers
+
+@model (KullanicidanVeriAlmaYöntemleri.Models.Product product,KullanicidanVeriAlmaYöntemleri.Models.User)
+
+<form asp-action="CreateProduct" asp-controller="TuplenesnePostEtmeVeYakalama" method="post">
+    <input type="text" asp-for="product.Name" placeholder="Product Name" /> <br />
+    <input type="text" asp-for="Item2.Name" placeholder="User Name" /> <br />
+    <button>Gönder</button>
+</form>

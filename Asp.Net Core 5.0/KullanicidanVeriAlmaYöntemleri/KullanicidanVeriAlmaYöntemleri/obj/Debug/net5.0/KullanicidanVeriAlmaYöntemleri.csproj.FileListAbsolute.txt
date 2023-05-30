@@ -49,3 +49,4 @@ D:\DERSLER\GencayYildiz\Asp.Net Core 5.0\KullanicidanVeriAlmaYöntemleri\Kullani
 D:\DERSLER\GencayYildiz\Asp.Net Core 5.0\KullanicidanVeriAlmaYöntemleri\KullanicidanVeriAlmaYöntemleri\obj\Debug\net5.0\Razor\Views\HeaderUzerinden\VeriAl.cshtml.g.cs
 D:\DERSLER\GencayYildiz\Asp.Net Core 5.0\KullanicidanVeriAlmaYöntemleri\KullanicidanVeriAlmaYöntemleri\obj\Debug\net5.0\Razor\Views\AjaxTabanli\CreateProduct.cshtml.g.cs
 D:\DERSLER\GencayYildiz\Asp.Net Core 5.0\KullanicidanVeriAlmaYöntemleri\KullanicidanVeriAlmaYöntemleri\obj\Debug\net5.0\Razor\Views\AjaxTabanli\VeriAl.cshtml.g.cs
+D:\DERSLER\GencayYildiz\Asp.Net Core 5.0\KullanicidanVeriAlmaYöntemleri\KullanicidanVeriAlmaYöntemleri\obj\Debug\net5.0\Razor\Views\TupleNesnePostEtmeVeYakalama\CreateProduct.cshtml.g.cs

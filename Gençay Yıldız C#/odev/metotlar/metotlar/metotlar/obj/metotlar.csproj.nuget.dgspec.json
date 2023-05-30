@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\GencayYildiz\\Gençay Yıldız C#\\odev\\metotlar\\metotlar\\metotlar\\metotlar.csproj": {}
+    "D:\\DERSLER\\GencayYildiz\\Gençay Yıldız C#\\odev\\metotlar\\metotlar\\metotlar\\metotlar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\GencayYildiz\\Gençay Yıldız C#\\odev\\metotlar\\metotlar\\metotlar\\metotlar.csproj": {
+    "D:\\DERSLER\\GencayYildiz\\Gençay Yıldız C#\\odev\\metotlar\\metotlar\\metotlar\\metotlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\GencayYildiz\\Gençay Yıldız C#\\odev\\metotlar\\metotlar\\metotlar\\metotlar.csproj",
+        "projectUniqueName": "D:\\DERSLER\\GencayYildiz\\Gençay Yıldız C#\\odev\\metotlar\\metotlar\\metotlar\\metotlar.csproj",
         "projectName": "metotlar",
-        "projectPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\GencayYildiz\\Gençay Yıldız C#\\odev\\metotlar\\metotlar\\metotlar\\metotlar.csproj",
+        "projectPath": "D:\\DERSLER\\GencayYildiz\\Gençay Yıldız C#\\odev\\metotlar\\metotlar\\metotlar\\metotlar.csproj",
         "packagesPath": "C:\\Users\\ZAFER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\GencayYildiz\\Gençay Yıldız C#\\odev\\metotlar\\metotlar\\metotlar\\obj\\",
+        "outputPath": "D:\\DERSLER\\GencayYildiz\\Gençay Yıldız C#\\odev\\metotlar\\metotlar\\metotlar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
