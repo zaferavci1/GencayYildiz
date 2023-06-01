@@ -52,5 +52,11 @@ namespace KullanicidanVeriAlmaYöntemleri.Controllers
             //işlem/operasyon/algoritma burada tabi tutulur.
             return View();
         }
+        
+        public IActionResult ModelmetaDataType()
+        {
+
+            return View();
+        }
     }
 }
