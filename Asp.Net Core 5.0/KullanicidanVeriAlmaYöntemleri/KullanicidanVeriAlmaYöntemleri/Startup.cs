@@ -1,3 +1,4 @@
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -23,7 +24,7 @@ namespace KullanicidanVeriAlmaYöntemleri
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            services.AddControllersWithViews().AddFluentValidation(x => x.RegisterValidatorsFromAssemblyContaining<Startup>());//Service entegre edildi. AbstractValidator dan türeyen tüm sınıfları bir validator sınıf olduğunu algılayacak ve bunları yakalayacak. Validator olarak kullanmayı sağlayacak.
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

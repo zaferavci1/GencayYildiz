@@ -38,7 +38,7 @@ namespace KullanicidanVeriAlmaYöntemleri.Controllers
             }
             */
             // ModelState: MVC'de bir type'ın data annotationsların durumunu kontrol eden ve geriye sonuç deönen bir propertydir.
-            if (!ModelState.IsValid)
+            if (!ModelState.IsValid)//Fluent Validation da da ModelState ile yakalayabileceğiz
             {
                 //doğrulanmaz ise 
                 //loglanma
@@ -52,11 +52,9 @@ namespace KullanicidanVeriAlmaYöntemleri.Controllers
             //işlem/operasyon/algoritma burada tabi tutulur.
             return View();
         }
-        
-        public IActionResult ModelmetaDataType()
-        {
 
-            return View();
-        }
+        /* Fluent Validation - En çok bilinen - En çok kullanılanlardan biri 
+         * 
+         */
     }
 }
