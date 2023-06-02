@@ -2,6 +2,14 @@
 
 @model KullanicidanVeriAlmaYöntemleri.Models.Product
 
+client tabanlaı validationslar için ilgili viewa gerekli kütüphaneleri vermemiz lazım
+client tabanlı validationslar bizim sunucumuza istek gelmeden tarayıcıda(client) doğrulama yapar.
+
+    <script src="~/jquery/jquery.min.js"></script>
+    <script src="~/jquery-validate/jquery.validate.min.js"></script>
+    <script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
 <div asp-validation-summary="All">
 
 </div>

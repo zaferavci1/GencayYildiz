@@ -41,7 +41,7 @@ namespace KullanicidanVeriAlmaYöntemleri
                 app.UseHsts();
             }
             app.UseHttpsRedirection();
-            app.UseStaticFiles();
+            app.UseStaticFiles();//wwwroot için gerekli./Statik dosya yapılanması için
 
             app.UseRouting();
 

@@ -56,3 +56,4 @@ D:\DERSLER\GencayYildiz\Asp.Net Core 5.0\KullanicidanVeriAlmaYöntemleri\Kullani
 D:\DERSLER\GencayYildiz\Asp.Net Core 5.0\KullanicidanVeriAlmaYöntemleri\KullanicidanVeriAlmaYöntemleri\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
 D:\DERSLER\GencayYildiz\Asp.Net Core 5.0\KullanicidanVeriAlmaYöntemleri\KullanicidanVeriAlmaYöntemleri\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\DERSLER\GencayYildiz\Asp.Net Core 5.0\KullanicidanVeriAlmaYöntemleri\KullanicidanVeriAlmaYöntemleri\obj\Debug\net5.0\KullanicidanVeriAlmaYöntemleri.MvcApplicationPartsAssemblyInfo.cs
+D:\DERSLER\GencayYildiz\Asp.Net Core 5.0\KullanicidanVeriAlmaYöntemleri\KullanicidanVeriAlmaYöntemleri\bin\Debug\net5.0\libman.json
